@@ -18,7 +18,7 @@ Given a sentence, classify it among the following labels
 - IPYNB File : [TFIDF and Logistic Regression](ML/Toxic_Comment_Classifier_tfidf.ipynb)
 - [Colab](https://colab.research.google.com/drive/1dRvXLOSmEwfRRIctLiTROt4-UVGxbXtk?usp=sharing)
 
-#### Output
+#### Result
 
 <img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/Logistic%20Regression%20using%20TFIDF.png" alt="Output"/>
 
@@ -49,7 +49,7 @@ Given a sentence, classify it among the following labels
 - IPYNB File : [Custom-Trained Embedding](Toxic_Comment_Classification_Custom_Word_Embedding.ipynb)
 - [Colab](https://colab.research.google.com/drive/1qUfcpwVGL3Vg0GNG9RSzE3Zd45fVKA47?usp=sharing)
 
-#### Output
+#### Result
 
 <img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/Custom%20Word%20Embedding.png" alt="Output"/>
 
@@ -74,7 +74,7 @@ Given a sentence, classify it among the following labels
 - [Colab](https://colab.research.google.com/drive/1N6y43z2ioQp0fMYrRlDfnrLdtSQIDQk0?usp=sharing)
 - Glove : https://nlp.stanford.edu/projects/glove/
 
-#### Output
+#### Result
 
 <img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/GloVe%20Embedding.png" alt="Output"/>
 
