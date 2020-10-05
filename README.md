@@ -1,6 +1,7 @@
 # Toxic-Comment-Classification
 
 - Competition : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/
+- Discord Bot Based on this : https://github.com/Sid200026/ToxicBot
 
 The repo contains notebooks for the Jigsaw Toxic Comment Classification contest hosted on Kaggle.
 
