@@ -1,7 +1,7 @@
 # Toxic-Comment-Classification
 
 - Competition : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/
-- Discord Bot Based on this : https://github.com/Sid200026/ToxicBot
+- Discord Bot Based on this : https://github.com/ToxicBot-Discord/ToxicBot
 
 The repo contains notebooks for the Jigsaw Toxic Comment Classification contest hosted on Kaggle.
 
@@ -21,7 +21,7 @@ Given a sentence, classify it among the following labels
 
 #### Result
 
-<img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/Logistic%20Regression%20using%20TFIDF.png" alt="Output"/>
+<img src="https://github.com/ToxicBot-Discord/Toxic-Comment-Classification/blob/main/Output/Logistic%20Regression%20using%20TFIDF.png" alt="Output"/>
 
 #### Steps
 
@@ -52,7 +52,7 @@ Given a sentence, classify it among the following labels
 
 #### Result
 
-<img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/Custom%20Word%20Embedding.png" alt="Output"/>
+<img src="https://github.com/ToxicBot-Discord/Toxic-Comment-Classification/blob/main/Output/Custom%20Word%20Embedding.png" alt="Output"/>
 
 #### Steps
 
@@ -77,7 +77,7 @@ Given a sentence, classify it among the following labels
 
 #### Result
 
-<img src="https://github.com/Sid200026/Toxic-Comment-Classification/blob/main/Output/GloVe%20Embedding.png" alt="Output"/>
+<img src="https://github.com/ToxicBot-Discord/Toxic-Comment-Classification/blob/main/Output/GloVe%20Embedding.png" alt="Output"/>
 
 #### Steps
 
